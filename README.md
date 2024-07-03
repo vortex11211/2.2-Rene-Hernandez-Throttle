@@ -64,7 +64,7 @@ asegúrate de que tienes instalado jest types:
 
     
 **Licencia**
-MIT. 
+MIT 
 
 **Contacto**
 
