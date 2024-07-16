@@ -1,4 +1,4 @@
-***Funcion Throttle***
+# ***Funcion Throttle***
 
 Construccion e implementación de una Función Throttle en TypeScript
 se usa Jest para las pruebas.
@@ -13,40 +13,42 @@ Para instalar y configurar este proyecto en tu entorno local, sigue estos pasos:
 
 1.	Clona el repositorio:
    
-**gh repo clone vortex11211/2.2-Rene-Hernandez-Throttle**
+**```gh repo clone vortex11211/2.2-Rene-Hernandez-Throttle```**
 
-**cd spring2.2**
+**```cd spring2.2```**
 
 3.	Instala las dependencias:
 
-  **npm install**
+  **```npm install```**
   
 Para compilar y ejecutar la aplicación, utiliza los siguientes comandos:
 
 Compila el proyecto
 
-**npx tsc**
+**```npx tsc```**
 
 Puedes ver un ehemplo de su uso en html ejecutando el archivo
 
-**node HTML/index.html**
+**```node HTML/index.html```**
 
 Para ejecutar las pruebas unitarias utiliza el siguiente comando:
 
-**npx jest**
+```npx jest```
 
 las pruebas están ubicadas en la carpeta src y utilizan Jest,
 asegúrate de que tienes instalado jest types: 
 
-**npm install --save-dev jest ts-jest @types/jest**
+```npm install --save-dev jest ts-jest @types/jest```
 
 
 **Pendientes**
 -Mejorar el CLI ya que lanza un error:
 
-**node ./dist/CLI/index.js**
+```node ./dist/CLI/index.js```
 
  callBack(...waitingArgs)- Verificar..
+
+ en la carpeta HTML se encuentra el archivo index.html con el ejemplo del uso de la función throttle que captura el movimeinto del mouse.
 
 **Contribuir**
 
