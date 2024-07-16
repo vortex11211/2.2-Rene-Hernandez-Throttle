@@ -1,6 +1,6 @@
-# ***Funcion Throttle***
+# ***Función Throttle***
 
-Construccion e implementación de una Función Throttle en TypeScript
+Construcción e implementación de una Función Throttle en TypeScript
 se usa Jest para las pruebas.
 
 ***Descripción***
@@ -30,7 +30,7 @@ Compila el proyecto
 ## HTML
 Puedes ver un ejemplo de su uso en html ejecutando el archivo
 
-**```node HTML/index.html```**
+**```start HTML/index.html```**
 
 Para ejecutar las pruebas unitarias utiliza el siguiente comando:
 
