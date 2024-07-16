@@ -27,24 +27,25 @@ Compila el proyecto
 
 **```npx tsc```**
 
-Puedes ver un ehemplo de su uso en html ejecutando el archivo
+## HTML
+Puedes ver un ejemplo de su uso en html ejecutando el archivo
 
 **```node HTML/index.html```**
 
 Para ejecutar las pruebas unitarias utiliza el siguiente comando:
 
-```npx jest```
+**```npx jest```**
 
 las pruebas están ubicadas en la carpeta src y utilizan Jest,
 asegúrate de que tienes instalado jest types: 
 
-```npm install --save-dev jest ts-jest @types/jest```
+**```npm install --save-dev jest ts-jest @types/jest```**
 
 
 **Pendientes**
 -Mejorar el CLI ya que lanza un error:
 
-```node ./dist/CLI/index.js```
+**```node ./dist/CLI/index.js```**
 
  callBack(...waitingArgs)- Verificar..
 
