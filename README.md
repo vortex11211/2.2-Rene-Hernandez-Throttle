@@ -15,7 +15,7 @@ Para instalar y configurar este proyecto en tu entorno local, sigue estos pasos:
    
 **```gh repo clone vortex11211/2.2-Rene-Hernandez-Throttle```**
 
-**```cd spring2.2```**
+**```cd 2.2-Rene-Hernandez-Throttle```**
 
 3.	Instala las dependencias:
 
