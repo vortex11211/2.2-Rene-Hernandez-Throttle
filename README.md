@@ -52,7 +52,7 @@ Asegurate de tener instaladas las dependencias:
 
 Para ejecutar el CLI, dentro de la carpeta CLI usa
 
-**```npx tsc index.ts```**
+**```npx ts-node index.ts```**
 Al inicio se mostrará un mensaje de bienvenida y se solicita escribir un texto. mismo que se mostrará nada más dar enter en la consola.
 Esto da inicio a la función throttle, por lo que si se escriben sucesivamente mensajes antes de 5 segundos, no se devolverá el mensaje hasta que se cumpla la condición de los 5 segundos.
 
